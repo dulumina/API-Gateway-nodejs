@@ -1,0 +1,25 @@
+{
+  "name": "rest-nodejs",
+  "version": "1.0.0",
+  "description": "api gateway menggunakan node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dulumina/API-Gateway-nodejs.git"
+  },
+  "keywords": [
+    "api",
+    "gateway",
+    "rest",
+    "nodejs"
+  ],
+  "author": "Moh Dzulfikri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dulumina/API-Gateway-nodejs/issues"
+  },
+  "homepage": "https://github.com/dulumina/API-Gateway-nodejs#readme"
+}
